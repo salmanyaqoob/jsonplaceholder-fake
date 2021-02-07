@@ -2,28 +2,28 @@
     "flights": [
       {
         "id": 1,
-		"flight_code": "EK002",
+		    "flight_code": "EK002",
         "flight_plane": "emirates",
         "flight_plane_image": "https://github.com/salmanyaqoob/jsonplaceholder-fake/blob/master/images/emirates_logo.png?raw=true",
         "from": "LHR",
         "to": "CPT",
         "duration": "3 Hour, 20 mints",
         "flight_status": "Boarding",
-		"seat_no": "11A",
-		"departure_date_time": "15:20 12 Feb",
+		    "seat_no": "11A",
+		    "departure_date_time": "15:20 12 Feb",
         "last_update": "10:04"
       },
       {
         "id": 2,
-		"flight_code": "EK002",
+		    "flight_code": "EK002",
         "flight_plane": "emirates",
         "flight_plane_image": "https://github.com/salmanyaqoob/jsonplaceholder-fake/blob/master/images/emirates_logo.png?raw=true",
         "from": "LHR",
         "to": "CPT",
         "duration": "3 Hour, 20 mints",
         "flight_status": "Boarding",
-		"seat_no": "11A",
-		"departure_date_time": "15:20 12 Feb",
+		    "seat_no": "11A",
+		    "departure_date_time": "15:20 12 Feb",
         "last_update": "10:04"
       }
     ]
