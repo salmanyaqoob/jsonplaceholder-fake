@@ -2,23 +2,29 @@
     "flights": [
       {
         "id": 1,
+		"flight_code": "EK002",
         "flight_plane": "emirates",
         "flight_plane_image": "https://c.ekstatic.net/ecl/logos/emirates/emirates-logo-badge.svg?h=a7d09ceb27de7ab5824d464770195f22",
-        "from": "dubai",
-        "to": "riyadh",
+        "from": "LHR",
+        "to": "CPT",
         "duration": "3 Hour, 20 mints",
-        "departure_date": "07/06/2021",
-        "departure_time": "15:20:2101 UTC"
+        "flight_status": "Boarding",
+		"seat_no": "11A",
+		"departure_date_time": "15:20 12 Feb",
+        "last_update": "10:04"
       },
       {
         "id": 2,
+		"flight_code": "EK002",
         "flight_plane": "emirates",
         "flight_plane_image": "https://c.ekstatic.net/ecl/logos/emirates/emirates-logo-badge.svg?h=a7d09ceb27de7ab5824d464770195f22",
-        "from": "dubai",
-        "to": "riyadh",
+        "from": "LHR",
+        "to": "CPT",
         "duration": "3 Hour, 20 mints",
-        "departure_date": "07/06/2021",
-        "departure_time": "15:20:2101 UTC"
-      }
+        "flight_status": "Boarding",
+		"seat_no": "11A",
+		"departure_date_time": "15:20 12 Feb",
+        "last_update": "10:04"
+      },
     ]
 }
